@@ -1,7 +1,8 @@
 <div align="center">
   
 # Shape Cloud Collage on Irregular Canvas
-![https://img.shields.io/badge/pytorch-2.0]()
+![Static Badge](https://img.shields.io/badge/pytorch-20-blue)
+
 
 Sheng-Yi Yao, Dong-Yi Wu, Thi-Ngoc-Hanh Le, Tong-Yee Lee
 </div>
