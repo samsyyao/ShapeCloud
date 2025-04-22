@@ -1,6 +1,6 @@
 <div align="center">
-![Static Badge](https://img.shields.io/badge/pytorch-2.0-blue)
-  ![Static Badge](https://img.shields.io/badge/python-3-orange)
+![Static Badge](https://img.shields.io/badge/pytorch-2-blue)
+![Static Badge](https://img.shields.io/badge/python-3-orange)
 # Shape Cloud Collage on Irregular Canvas
 
 
