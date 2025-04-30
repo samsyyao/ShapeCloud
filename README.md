@@ -16,4 +16,4 @@ This paper addresses a challenging and novel problem in 2D shape cloud visualiza
 
 ## Code
 
-We will release code after this paper is accepted in the future.
+The code will be available soon
