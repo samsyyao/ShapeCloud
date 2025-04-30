@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/pytorch-2-blue)
 ![Static Badge](https://img.shields.io/badge/python-3-orange)
 
-Sheng-Yi Yao, Dong-Yi Wu, Thi-Ngoc-Hanh Le, Tong-Yee Lee
+Sheng-Yi Yao, Dong-Yi Wu, Thi-Ngoc-Hanh Le, Tong-Yee Lee*
 </div>
 
 ![teaser](figures/teaser-shapecloud.jpg)
