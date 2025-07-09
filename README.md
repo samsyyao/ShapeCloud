@@ -16,4 +16,4 @@ This paper addresses a challenging and novel problem in 2D shape cloud visualiza
 
 ## Code
 
-The code will be available soon. It is accepted by IEEE Transactions on Visualization and Computer Graphics (2025/04).
+It is accepted by IEEE Transactions on Visualization and Computer Graphics (2025/04).
