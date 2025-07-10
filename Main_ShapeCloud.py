@@ -44,9 +44,9 @@ def preprocess(img,threshold=0.5, directory="", tag = "", resolutionP=0):
 
 ordernumber='animal'
 datasetnumber='4'
-objposition='data/'+ordernumber+'/'+datasetnumber+'/image'+'/*.png'
-holeposition='data/'+ordernumber+'/oursbackground-0.png'
-with open('data/'+ordernumber+'/'+datasetnumber+'/ordervalue.txt', 'r') as f:
+objposition='Dataset/'+ordernumber+'/'+datasetnumber+'/image'+'/*.png'
+holeposition='Dataset/'+ordernumber+'/oursbackground-0.png'
+with open('Dataset/'+ordernumber+'/'+datasetnumber+'/ordervalue.txt', 'r') as f:
     ordervalue = f.read()
 
 
